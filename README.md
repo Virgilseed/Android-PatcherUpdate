@@ -44,8 +44,8 @@ PS: 别忘了gradle.properties添加  android.useDeprecatedNdk=true
   
 
 ## 联系
-####微信：whenwherew
-####E-mail: virgilseed@gmail.com  or   seedzj.@qq.com
+#### 微信：whenwherew
+#### E-mail: virgilseed@gmail.com  or   seedzj.@qq.com
   
 
 
